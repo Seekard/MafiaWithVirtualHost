@@ -1,0 +1,18 @@
+# Rider files
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+*.sln.iml
+*.csproj.user
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+/packages/
+
+# Build results
+*.dll
+*.exe
+*.pdb
